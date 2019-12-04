@@ -1,0 +1,17 @@
+<html><body>
+<table align="center" border="2">
+<TR><th COLSPAN="4" >ACCOUNT DETAILS</th></TR><br/>
+<tr><th>ACCOUNT NO</th>
+<th>NAME</th>
+<th>BALANCE</th>
+<th>PASSWORD</th></tr>
+    {% for x in view %}
+<tr><td>{{x.acno}}</td>
+<td>{{x.name}}</td>
+<td>{{x.balance}}</td>
+<td>{{x.password}}</td></tr>
+
+
+{% endfor %}
+</table>
+</body></html>
