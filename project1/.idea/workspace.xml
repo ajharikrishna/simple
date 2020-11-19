@@ -38,6 +38,11 @@
     </expand>
     <select />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1090" />
+  </component>
   <component name="ProjectId" id="1R16CnP3b6tt5SDRt9SDMqk6OD8" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -57,7 +62,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Django server.project1">
-    <configuration name="view.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/templates/view.html" useBuiltInWebServerPort="true">
+    <configuration name="view.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/templates/view.html">
       <method v="2" />
     </configuration>
     <configuration name="project1" type="Python.DjangoServer" factoryName="Django server">
@@ -84,6 +89,10 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Django server.project1" />
+      <item itemvalue="JavaScript Debug.view.html" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.view.html" />
